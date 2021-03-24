@@ -34,12 +34,3 @@ export default {
 #nav {
   padding: 30px;
 }
-/*Pour tous les appareils équipés d'écrans et dont la taille est inférieure à 780px*/
-@media screen and (max-width: 780px){
-    body{
-        background-color: #848; /*Violet*/
-  }
-    .conteneur-flex{
-        flex-flow: column wrap;
-    }
-}

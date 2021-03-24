@@ -1,5 +1,4 @@
 <template>
-<div class="card-body">
   <div class="table">
     <div class="card-header" role="tab" id="heading">
       <h5 class="mb-0">
@@ -118,7 +117,6 @@
       </table>
     </div>
   </div>
-</div>
 </template>
 
 <style>
@@ -146,7 +144,6 @@
   }
     .table{
         flex-flow: column wrap;
-       
     }
 }
 #site-search{

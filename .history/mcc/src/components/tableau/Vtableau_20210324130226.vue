@@ -1,5 +1,4 @@
 <template>
-<div class="card-body">
   <div class="table">
     <div class="card-header" role="tab" id="heading">
       <h5 class="mb-0">
@@ -118,7 +117,6 @@
       </table>
     </div>
   </div>
-</div>
 </template>
 
 <style>
@@ -138,20 +136,6 @@
   text-align: center;
   background-color: #f1c40f;
   margin-top: 20px;
-}
-/*Pour tous les appareils équipés d'écrans et dont la taille est inférieure à 780px*/
-@media screen and (max-width: 780px){
-    body{
-        background-color: #848; /*Violet*/
-  }
-    .table{
-        flex-flow: column wrap;
-       
-    }
-}
-#site-search{
-  border-radius: 30px;
-
 }
 </style>
 

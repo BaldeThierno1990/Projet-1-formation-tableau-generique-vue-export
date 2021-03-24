@@ -1,5 +1,4 @@
 <template>
-<div class="card-body">
   <div id="accordion" role="tablist">
     <div class="card">
       <div class="card-header" role="tab" id="heading">
@@ -392,7 +391,6 @@
       </div>
     </div>
   </div>
-</div>
 </template>
 
 <style>
