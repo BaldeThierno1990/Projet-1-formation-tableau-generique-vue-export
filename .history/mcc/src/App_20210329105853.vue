@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <v-header></v-header>
-   <creat-form></creat-form>
+   
+   <creat-form><creat-form>
    
   </div>
 </template>
